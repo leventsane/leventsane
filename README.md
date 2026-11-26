@@ -24,7 +24,7 @@ I design and run end-to-end AI systems: autonomous agents, automation architectu
 | [anadoluterra.com](https://anadoluterra.com) | Security company corporate site | React, multilingual blog, form API, SEO / GEO |
 | [syntheticintelligence.io](https://syntheticintelligence.io) | Synthetic Intelligence | Concept & corporate intelligence |
 
-Most of my work lives in **private repositories** (client projects under the [Ulaklar](https://github.com/Ulaklar) organization), so the contribution graph shows activity rather than code.
+Most of my work lives in **private repositories** under the [Ulaklar](https://github.com/Ulaklar) organization: Agentic OS, the AI Systems platform, YZH, LEMULOR, Anadolu Terra, ARŞ OSGB and Dronestaf. The code stays private; the contribution graph shows the activity and the [organization page](https://github.com/Ulaklar) lists the projects.
 
 ## Toolbox
 
