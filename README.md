@@ -7,10 +7,29 @@ Istanbul · [leventsane.com](https://www.leventsane.com)
 
 I design and run end-to-end AI systems: autonomous agents, automation architecture, voice & video digital avatars, AI search visibility (GEO / AEO / SEO), and the web, mobile and infrastructure layers underneath them, from the server to the interface.
 
-- **1989** — first lines of code
-- **1998** — network & information security, then many years as a holding-company system administrator
-- **2011** — holographic imaging R&D, with a product registered at the Turkish Patent Institute
-- **Today** — AI & Synthetic Intelligence orchestration at LEMULOR and YZH
+## Timeline
+
+| Years | Role | Organization |
+|---|---|---|
+| Aug 2026 – Present | **CTO & AI Architect** | LEMULOR Teknoloji A.Ş. |
+| 2024 – 2026 | **Founder · AI Systems Architect · Fullstack Developer** | YZH – Yapay Zekâ Hizmetleri |
+| 2020 – 2022 | Director of E-Commerce & Creative Director | VHP Group |
+| 2017 – 2020 | Independent Consultant & Project Development | Independent |
+| 2014 – 2017 | Senior UI/UX Designer | GKN Reklam |
+| 2012 – 2014 | Creative Director | ERT Television |
+| 2011 | Holographic imaging R&D, product registered at the Turkish Patent Institute | — |
+| 2010 – 2013 | Co-Founder | Seva Medya |
+| 2006 – 2008 | Project Manager (interactive display systems) | Boğaziçi A.Ş. – Tecpro |
+| 2000 – 2005 | System Administrator | Turcas Petrol (Türkpetrol) |
+| 1998 – 2000 | System Administrator | ETB Group – DAS A.Ş. |
+| 1996 – 1998 | System Administrator | Spacenet |
+| 1994 – 1996 | System Support | Pronet |
+| 1993 – 1994 | System Support | Step Bilgisayar |
+| 1989 | First lines of code | — |
+
+**Education** · 2002 Netron Academy, Microsoft–Cisco (network technologies, information security, system administration) · 1994 Anadolu University, Social Sciences · 1992 Technical & Industrial Vocational High School, Computers & Electronics
+
+Full CV: [leventsane.com/en/cv](https://www.leventsane.com/en/cv/)
 
 ## Live work
 
