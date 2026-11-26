@@ -3,7 +3,9 @@
 **CTO & AI Architect @ LEMULOR Teknoloji · Founder of YZH – Yapay Zekâ Hizmetleri**
 Istanbul · [leventsane.com](https://www.leventsane.com)
 
-> *“Sadece canlı olan iz bırakabilir.”* — Only what is alive can leave a trace.
+> *“Zaman bunun için var; her an bir iz taşıyor ve sadece canlı olan iz bırakabilir.”*  
+> *“That is what time is for; every moment carries a trace, and only what is alive can leave one.”*  
+> — Levent Şane
 
 Coding since 1989 · network & information security since 1998 · holographic imaging product registered at the Turkish Patent Institute (2011).
 
